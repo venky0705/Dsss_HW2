@@ -58,7 +58,7 @@ def math_quiz():
 """
 Documentation: 
 
-please takes input as answers to the random math questions
+it can takes input as answers to the random math questions
 provides output as the score of correct answers 
 calculates each correct answer as one point 
 
